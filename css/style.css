@@ -67,3 +67,42 @@ body {
     top: 162px;
     border-radius: 5px;
 }
+
+.mission-head {
+    text-align: center;
+    font-size: 55px;
+}
+
+.mission img {
+    width: 45%;
+    margin-left: 5%;
+}
+
+.mission-whole {
+    width: 25%;
+    height: 450px;
+    margin-left: 5%;
+    border-radius: 40px;
+}
+
+.grey {
+    background-color: #EDF5F6;
+}
+
+.pink {
+    background-color: #FFEEEE;
+}
+
+.yellow {
+    background-color: #FFF4D6;
+}
+
+.mission-whole-head {
+    font-size: 28px;
+    padding-left: 10%;
+}
+
+.mission-info {
+    font-size: 18px;
+    padding-left: 10%;
+}
