@@ -3,6 +3,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+section {
+    margin-bottom: 5%;
+}
+
 .flexible {
     display: flex;
     padding-left: 5%;
@@ -105,4 +109,14 @@ body {
 .mission-info {
     font-size: 18px;
     padding-left: 10%;
+}
+
+.develop-section {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.develop img {
+    margin-left: 10%;
+    border-radius: 20px;
 }
