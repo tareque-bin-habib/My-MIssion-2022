@@ -154,12 +154,23 @@ section {
 }
 
 footer {
-    height: 300px;
+    height: 250px;
     background-color: #0B0D17;
 }
 
-.al-set {
+.all-set {
     text-align: center;
     color: #fff;
+    font-family: 'Lobster', cursive;
+    padding-top: 3%;
+}
 
+.pink-2022 {
+    color: #FF5959;
+}
+
+.info-footer {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
 }
